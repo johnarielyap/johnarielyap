@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>HI, I'M ARIEL YAP</h1>
+<br>
+<br>
 
-<!--
-**johnarielyap/johnarielyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=FUTURE+CYBER+SECURITY+PROFESSIONAL)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+  
+  
+### OPERATING SYSTEM I USED:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+
+<br>
+
+### GITHUB ACTIVITY
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=yapariel&theme=dracula&color=04ba56&bg_color=202d91" />
+
+
