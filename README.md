@@ -13,6 +13,6 @@
 <br>
 
 ### GITHUB ACTIVITY
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=yapariel&theme=dracula&color=04ba56&bg_color=202d91" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=johnarielyap&theme=dracula&color=04ba56&bg_color=202d91" />
 
 
