@@ -15,4 +15,6 @@
 ### GITHUB ACTIVITY
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=johnarielyap&theme=dracula&color=04ba56&bg_color=202d91" />
 
+### TOOLS 
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 
