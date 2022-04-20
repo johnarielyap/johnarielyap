@@ -8,8 +8,9 @@
 <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 
 ### HOW TO REACH ME
-<a href="mailto: yapjohnariel@gmail.com">
-<img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a> <a href="https://www.linkedin.com/in/arielyap69/"><img src="https://img.shields.io/badge/jOHN aRIEL yAP-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://www.facebook.com/arielyap.fb/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/arielyap.fb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielyap69/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/ARIELDEV)
 
 ### GITHUB ACTIVITY
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=johnarielyap&theme=dracula&color=04ba56&bg_color=202d91" />
