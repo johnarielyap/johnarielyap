@@ -12,6 +12,12 @@
 
 <br>
 
+
+### HOW TO REACH ME
+<a href="mailto: yapjohnariel@gmail.com">
+<img src="https://img.shields.io/badge/-yapjohnariel%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a><a href="https://www.linkedin.com/in/arielyap69/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a href="https://www.facebook.com/arielyap.fb/"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
+
+
 ### GITHUB ACTIVITY
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=johnarielyap&theme=dracula&color=04ba56&bg_color=202d91" />
 
