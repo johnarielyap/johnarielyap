@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>HI, I'M ARIEL YAP</h1>
+<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>HI, I'M JOHN ARIEL YAP</h1>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=FUTURE+CYBER+SECURITY+PROFESSIONAL)](https://git.io/typing-svg)
