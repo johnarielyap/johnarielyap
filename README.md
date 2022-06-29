@@ -12,5 +12,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arielyap69/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/ARIELDEV)
 
-### GITHUB ACTIVITY:
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=johnarielyap&theme=dracula&color=04ba56&bg_color=202d91" />
